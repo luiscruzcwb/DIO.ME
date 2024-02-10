@@ -1,5 +1,9 @@
 Descrição
-Neste projeto o expert utilizou o Docker Compose para executar uma aplicação HTML em um Container Apache. Você poderá ir além e fazer alterações mais robustas ao seu projeto, estilizando sua página e utilizando seus conhecimentos em (HTML, CSS e JS). Você também pode buscar outras formas para executar seu arquivo HTML em outras Linguagens de Programação.
+Neste projeto deve se utilizar o Docker Compose para executar uma aplicação HTML em um Container Apache. 
+
+Podendo serem feitas alterações mais robustas ao seu projeto, estilizando sua página e utilizando seus conhecimentos em (HTML, CSS e JS). 
+
+Você também pode buscar outras formas para executar seu arquivo HTML em outras Linguagens de Programação.
 
 PASSO A PASSO:
 
@@ -10,7 +14,8 @@ Agora é a sua vez de ser o protagonista! Implemente o desafio sugerido pelo exp
 
 Pré-requisitos:
 
-Conhecimento Básico em Docker(Docker Compose);
+Conhecimento Básico em Docker (Docker Compose);
 Conhecimento Básico em Apache;
 Conhecimento Básico em HTML;
 Computador com SO de sua preferência(Windows, Linux, Mac OS);
+Conhecimentos iniciais em Git;
