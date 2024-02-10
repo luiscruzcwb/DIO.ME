@@ -5,5 +5,5 @@ services:
     container_name: my-apache-app
     ports:
     - '80:80'
-    volumes:
+    volumes: #PastaLocal-PastaNoContainer
     - ./website:/usr/local/apache2/htdocs
