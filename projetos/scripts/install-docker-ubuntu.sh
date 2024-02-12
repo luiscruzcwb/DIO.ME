@@ -14,6 +14,12 @@ echo \
 apt-get update -y
 apt-get install docker-ce docker-ce-cli containerd.io docker-compose-plugin -y
 
+sudo service docker start
+
+sudo chmod 666 /var/run/docker.sock
+
+#usermod -aG docker $USER
+
 
 #echo "Criando o container......."
 #docker run  --name apache-A -d -p 80:80 --volume=/site:/usr/local/apache2/htdocs/ httpd
