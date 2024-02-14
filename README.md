@@ -8,6 +8,8 @@ Aulas e Projetos da plataforma DIO.ME
 - Github
 - CI/CD
 - Kubernetes
+- AWS
+- Google Cloud
 ... 
 
 
